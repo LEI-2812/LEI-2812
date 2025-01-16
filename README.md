@@ -23,4 +23,6 @@
 ▪️Game System Designing </br>
 ▪️Game Contents Designing </br></br>
 
+### 📚 Portfolio
+[Click Here](https://lei2812.notion.site/Portfolio-Introducing-ME-1212364f09e580a19a7ff2f17cf5ab76?pvs=4)</br></br>
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:f6bd60,100:e76f51&height=50&section=footer)
